@@ -1,8 +1,8 @@
-# DoomMapGuessr Image Library (v2.0.0)
-Image library for DoomMapGuessr v2.0.0. Does not contain the actual database.
+# DoomMapGuessr Image Library (v3.0.0)
+Image library for DoomMapGuessr v3.0.0. Does not contain the actual database.
 
 ## Contents
-Contains screenshots used in the game [DoomMapGuessr (v2.0.0+)](https://github.com/MF366-Coding/DoomMapGuessr), by [Matthew](https://github.com/MF366-Coding).
+Contains screenshots used in the game [DoomMapGuessr (v3.0.0+)](https://github.com/MF366-Coding/DoomMapGuessr), by [Matthew](https://github.com/MF366-Coding).
 
 Screenshots are organized by:
 * Game
