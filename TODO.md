@@ -1,5 +1,5 @@
 # Global TODO for DoomMapGuessr-Image-Library
-The global TODO for DoomMapGuessr's Image Library.
+The global TODO for DoomMapGuessr's Image Library (and DoomMapGuessr too).
 
 ## Anyone can contribute
 Screenshots. 20 is the minimum per level. Don't exceed 40.
@@ -47,7 +47,7 @@ Screenshots. 20 is the minimum per level. Don't exceed 40.
 		- [ ] **E4M9** (lacking 20+ screenshots)
 - [ ] **DOOM II: Hell on Earth**
 	- [X] **MAP01** (20/20 screenshots, no reason to have more from my point of view)
-	- [ ] **MAP02** (lacking 20+ screenshots)
+	- [X] **MAP02** (20/20 screenshots, if you really want to add more, go ahead, but maybe not necessary??)
 	- [ ] **MAP03** (lacking 20+ screenshots)
 	- [ ] **MAP04** (lacking 20+ screenshots)
 	- [ ] **MAP05** (lacking 20+ screenshots)
@@ -234,8 +234,8 @@ Screenshots. 20 is the minimum per level. Don't exceed 40.
 	- [ ] **MAP15** (lacking 20+ screenshots)
 	- [ ] **MAP16** (lacking 20+ screenshots)
 
-## For Matthew
-Ranking and evaluating.
+## For Matthew Only
+Ranking, evaluating and adding to database.
 
 - [ ] **The Ultimate Doom**
 	- [ ] **Episode 1: Knee-Deep in the Dead**
@@ -279,8 +279,8 @@ Ranking and evaluating.
 		- [ ] **E4M8** (lacking 20+ screenshots)
 		- [ ] **E4M9** (lacking 20+ screenshots)
 - [ ] **DOOM II: Hell on Earth**
-	- [ ] **MAP01** (20 screenshots to evaluate, rank and add to DB)
-	- [ ] **MAP02** (lacking 20+ screenshots)
+	- [X] **MAP01** (20 screenshots done)
+	- [X] **MAP02** (20 screenshots done)
 	- [ ] **MAP03** (lacking 20+ screenshots)
 	- [ ] **MAP04** (lacking 20+ screenshots)
 	- [ ] **MAP05** (lacking 20+ screenshots)
