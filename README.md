@@ -19,10 +19,11 @@ Anyone is welcome to contribute to this image library, however certain rules mus
 2. Open your source port (preferably DSDA-Doom or GZDoom) with the WAD you want to screenshot.
 3. Select the episode and map.
 4. Move to the place you wish to take a screenshot of.
-5. **(Not applicable to DOOM 64)** Before screenshotting, register the position somewhere you'll remember (use cheat **`idmypos`**). It is up to the individual screenshotting to decide whether they wish to play with no monsters or with monsters. **Note:** you must not use a source port that doesn't display the Z coordinate.
+5. **(Not applicable to DOOM 64)** Before screenshotting, register the position somewhere you'll remember (use cheat **`idmypos`**). It is up to the individual screenshotting to decide whether they wish to play with no monsters or with monsters *(no monsters is recommended for most cases)*. **Note:** you must use a source port that displays the Z coordinate (e.g.: GZDoom).
 6. **(Not applicable to DOOM 64)** Upon registering the position (X, Y and Z - angle is not necessary), remove all clutter from the screen (in GZDoom, this means setting screen size to the maximum value in order to remove all HUD) and take the actual screenshot.
-7. **(Not applicable to DOOM 64)** Rename the screenshot to match the following convention: `<x value>_<y value>_<z value>_TO-BE-RANKED.<format>` (example: `-551_35_0_TO-BE-RANKED.png`). Only JPG/PNG are accepted, preferably with ratio 16:9, although 1:1 is equally acccepted.
-8. **(Applicable to DOOM 64 ONLY)** Rename the screenshot to match the following convention: `DOOM64_MAP<map number>_<screenshot index>_TO-BE-RANKED.<format>` (example: `DOOM64_MAP03_6_TO-BE-RANKED.jpg`). Only JPG/PNG are accepted, preferably with ratio 16:9, although 1:1 is equally acccepted. Screenshot index starts at 0.
+7. **(Small note - not applicable to DOOM 64)** Some source ports (like GZDoom) sometimes display `-0` as a coordinate. Consider it to be `0`.
+8. **(Not applicable to DOOM 64)** Rename the screenshot to match the following convention: `<x value>_<y value>_<z value>_TO-BE-RANKED.<format>` (example: `-551_35_0_TO-BE-RANKED.png`). Only JPG/PNG are accepted, preferably with ratio 16:9, although 1:1 is equally acccepted.
+9. **(Applicable to DOOM 64 ONLY)** Rename the screenshot to match the following convention: `DOOM64_MAP<map number>_<screenshot index>_TO-BE-RANKED.<format>` (example: `DOOM64_MAP03_6_TO-BE-RANKED.jpg`). Only JPG/PNG are accepted, preferably with ratio 16:9, although 1:1 is equally acccepted. Screenshot index starts at 0.
 
 **Actual Contribution**
 1. Place the screenshot(s) in their correct folders, respecting the `Game -> Episode -> Map` structure.
