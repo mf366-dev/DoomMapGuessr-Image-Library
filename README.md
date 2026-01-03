@@ -2,7 +2,7 @@
 Image library for DoomMapGuessr v3.0.0. Does not contain the actual database.
 
 ## Contents
-Contains screenshots used in the game [DoomMapGuessr (v3.0.0+)](https://github.com/matty-the-dev/DoomMapGuessr), by [Matthew](https://github.com/matty-the-dev).
+Contains screenshots used in the game [DoomMapGuessr (v3.0.0+)](https://github.com/mf366-dev/DoomMapGuessr), by [Matthew](https://github.com/mf366-dev).
 
 Screenshots are organized by:
 * Game
