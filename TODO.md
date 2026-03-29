@@ -7,7 +7,7 @@ Screenshots. 20 is the minimum per level. Don't exceed 40.
 - [ ] **The Ultimate Doom**
 	- [ ] **Episode 1: Knee-Deep in the Dead**
 		- [X] **E1M1** (21/20, no need for more imo)
-		- [X] **E1M2** (26/20, you're crazy if you think we need more)
+		- [X] **E1M2** (26/20, no need for more imo)
 		- [ ] **E1M3** (lacking 20+ screenshots)
 		- [ ] **E1M4** (lacking 20+ screenshots)
 		- [ ] **E1M5** (lacking 20+ screenshots)
