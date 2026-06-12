@@ -64,11 +64,6 @@ DIFFICULTY_NAMES: list[str] = [
 DIFFICULTY_ABBREVIATION: list[str] = ["ITYTG", "GNTR", "GMP", "UG", "GM", "GM+"]
 
 
-# [*] Auxiliary Functions (I)
-def get_cwd_path_object() -> Path:
-    return Path(os.getcwd())
-
-
 def get_full_difficulty_name(difficulty_level: int) -> str:
     """
     get_full_difficulty_name
@@ -84,10 +79,6 @@ def get_full_difficulty_name(difficulty_level: int) -> str:
 
 def get_pretty_header(header_text: str) -> str:
     return header_text  # TODO: make this actually return a pretty header
-
-
-# [*] Global Variables
-database_path: str = f"{get_cwd_path_object().joinpath('./MAPDAT3.db')}"
 
 
 if __name__ == "__main__":
