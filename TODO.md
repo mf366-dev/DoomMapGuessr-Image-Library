@@ -18,8 +18,8 @@ Screenshots. 20 is the minimum per level. Don't exceed 40.
 	- [ ] **Episode 2: Shores of Hell**
 		- [X] **E2M1** (21/20, no need for more imo)
 		- [X] **E2M2** (25/20, if you really want to add more, go ahead, but maybe not necessary??)
-		- [ ] **E2M3** (lacking 20+ screenshots)
-		- [ ] **E2M4** (lacking 20+ screenshots)
+		- [ ] **E2M3** (24/20 TO BE EVALUATED AND RANKED)
+		- [ ] **E2M4** (25/20 TO BE EVALUATED AND RANKED)
 		- [ ] **E2M5** (lacking 20+ screenshots)
 		- [ ] **E2M6** (lacking 20+ screenshots)
 		- [ ] **E2M7** (lacking 20+ screenshots)
