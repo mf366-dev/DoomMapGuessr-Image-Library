@@ -44,10 +44,10 @@ from sys import path_hooks
 # Constants
 GITHUB_RAW: str = "https://raw.githubusercontent.com/mf366-dev/DoomMapGuessr-Image-Library/refs/heads/main"
 EVALUATED_IMAGE_NAME_PATTERN: re.Pattern[str] = re.compile(
-    r"^(-?\d+)_(-?\d+)_(-?\d+)\.(png|jpg|jpeg)$"
+    r"^(-?\d+)_(-?\d+)\.(png|jpg|jpeg)$"
 )
 TO_BE_RANKED_IMAGE_NAME_PATTERN: re.Pattern[str] = re.compile(
-    r"^(-?\d+)_(-?\d+)_(-?\d+)_TO-BE-RANKED\.(png|jpg|jpeg)$"
+    r"^(-?\d+)_(-?\d+)_TO-BE-RANKED\.(png|jpg|jpeg)$"
 )
 
 
@@ -65,7 +65,7 @@ def get_relative_github_path(path: Path | None = None) -> str | None:
     return None
 
 
-def parse_coordinates_in_filename(s: str, /) -> tuple[float, float, float] | None:
+def parse_coordinates_in_filename(s: str, /) -> tuple[float, float] | None:
     match_to_be_ranked: re.Match[str] | None = re.match(
         TO_BE_RANKED_IMAGE_NAME_PATTERN, s
     )
@@ -76,7 +76,7 @@ def parse_coordinates_in_filename(s: str, /) -> tuple[float, float, float] | Non
             match_evaluated if match_to_be_ranked is None else match_to_be_ranked
         )
 
-        x, y, z = match.groups()
-        return (float(x), float(y), float(z))
+        x, y = match.groups()
+        return (float(x), float(y))
 
     return None

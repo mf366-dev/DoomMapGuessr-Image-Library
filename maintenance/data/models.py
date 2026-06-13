@@ -131,7 +131,6 @@ class Image:
     difficulty_level: int
     x: int
     y: int
-    z: int
     map_id: int
 
     @classmethod
@@ -142,7 +141,6 @@ class Image:
             difficulty_level=row["DifficultyLevel"],
             x=row["X"],
             y=row["Y"],
-            z=row["Z"],
             map_id=row["MapId"],
         )
 
@@ -153,6 +151,5 @@ class Image:
             "DifficultyLevel": self.difficulty_level,
             "X": self.x,
             "Y": self.y,
-            "Z": self.z,
             "MapId": self.map_id,
         }
