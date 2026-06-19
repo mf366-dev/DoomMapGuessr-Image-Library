@@ -34,7 +34,7 @@ For the screenshots, the recommendation for minimum amount is 20, but some level
 		- [ ] **E2M9** (5/20 TO BE EVALUATED AND RANKED map is too smol, only got 5)
 	- [ ] **Episode 3: Inferno**
 		- [ ] **E3M1** (10/20 TO BE EVALUATED AND RANKED; more needed? idk, it's a small map)
-		- [ ] **E3M2** (lacking 20+ screenshots)
+		- [ ] **E3M2** (11/20 TO BE EVALUATED AND RANKED; also a tiny map...)
 		- [ ] **E3M3** (lacking 20+ screenshots)
 		- [ ] **E3M4** (lacking 20+ screenshots)
 		- [ ] **E3M5** (lacking 20+ screenshots)
