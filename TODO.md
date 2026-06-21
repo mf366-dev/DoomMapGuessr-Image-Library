@@ -9,7 +9,7 @@ For the screenshots, the recommendation for minimum amount is 20, but some level
 > You're also not forced to complete a map in screenshots - you can contribute with a few screenshots and leave the rest of the map for somebody else. 
 
 > [!IMPORTANT]
-> Priority goes to maps with no screenshots or with an amount of screenshots beyond the recommendation, even if there are other maps that are still open for screenshots.
+> Priority goes to maps with no screenshots or with an amount of screenshots below the recommendation, even if there are other maps that are still open for screenshots.
 
 - [ ] **The Ultimate Doom**
 	- [ ] **Episode 1: Knee-Deep in the Dead**
@@ -27,7 +27,7 @@ For the screenshots, the recommendation for minimum amount is 20, but some level
 		- [X] **E2M2** (25/20 screenshots, no need for more imo but still **open**)
 		- [X] **E2M3** (24/20 screenshots, no need for more imo but still **open**)
 		- [X] **E2M4** (25/20 screenshots, no need for more imo but still **open**)
-		- [ ] **E2M5** (28/20 TO BE EVALUATED AND RANKED; i probably got like 60% of the map that's how big it is)
+		- [ ] **E2M5** (28/20 TO BE EVALUATED AND RANKED; i probably got like 60% of the map that's how big it is - still **open and looking for screenshots**)
 		- [ ] **E2M6** (27/20 TO BE EVALUATED AND RANKED; probably no more needed)
 		- [ ] **E2M7** (38/20 TO BE EVALUATED AND RANKED; definitely no more left)
 		- [ ] **E2M8** (3/20 TO BE EVALUATED AND RANKED)
